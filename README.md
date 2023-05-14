@@ -1,2 +1,1 @@
-# firstpages
-These are some of the first projects I did. Using html, css and javascript
+this is a website so you can send an email to someone else
