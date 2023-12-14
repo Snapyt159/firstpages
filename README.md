@@ -1,1 +1,1 @@
-this is a website so you can send an email to someone else
+this is a website where you can send an email to someone else
